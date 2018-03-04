@@ -1,0 +1,44 @@
+VisualGDB/Debug/system_stm32f1xx.o: \
+ C:/Users/Rimvis/STM32Cube/Repository/STM32Cube_FW_F1_V1.6.0/Drivers/CMSIS/Device/ST/STM32F1xx/Source/Templates/system_stm32f1xx.c \
+ c:\users\rimvis\stm32cube\repository\stm32cube_fw_f1_v1.6.0\drivers\cmsis\device\st\stm32f1xx\include\stm32f1xx.h \
+ c:\users\rimvis\stm32cube\repository\stm32cube_fw_f1_v1.6.0\drivers\cmsis\device\st\stm32f1xx\include\stm32f103xb.h \
+ C:/Users/Rimvis/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_HAL/Include/core_cm3.h \
+ c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdint.h \
+ c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h \
+ c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h \
+ c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h \
+ c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h \
+ c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h \
+ c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h \
+ C:/Users/Rimvis/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_HAL/Include/core_cmInstr.h \
+ C:/Users/Rimvis/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_HAL/Include/cmsis_gcc.h \
+ C:/Users/Rimvis/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_HAL/Include/core_cmFunc.h \
+ c:\users\rimvis\stm32cube\repository\stm32cube_fw_f1_v1.6.0\drivers\cmsis\device\st\stm32f1xx\include\system_stm32f1xx.h
+
+c:\users\rimvis\stm32cube\repository\stm32cube_fw_f1_v1.6.0\drivers\cmsis\device\st\stm32f1xx\include\stm32f1xx.h:
+
+c:\users\rimvis\stm32cube\repository\stm32cube_fw_f1_v1.6.0\drivers\cmsis\device\st\stm32f1xx\include\stm32f103xb.h:
+
+C:/Users/Rimvis/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_HAL/Include/core_cm3.h:
+
+c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdint.h:
+
+c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h:
+
+c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h:
+
+c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h:
+
+c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h:
+
+c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h:
+
+c:\rimvydodalykai\elektronika\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h:
+
+C:/Users/Rimvis/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_HAL/Include/core_cmInstr.h:
+
+C:/Users/Rimvis/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_HAL/Include/cmsis_gcc.h:
+
+C:/Users/Rimvis/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F0xxxx/CMSIS_HAL/Include/core_cmFunc.h:
+
+c:\users\rimvis\stm32cube\repository\stm32cube_fw_f1_v1.6.0\drivers\cmsis\device\st\stm32f1xx\include\system_stm32f1xx.h:
