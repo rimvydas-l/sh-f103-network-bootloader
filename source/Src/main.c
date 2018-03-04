@@ -58,6 +58,12 @@ void SystemClock_Config(void);
 /* USER CODE BEGIN PFP */
 /* Private function prototypes -----------------------------------------------*/
 
+void startApp()
+{
+	extern void *_app_start[];
+	((void(*)())_app_start[1])();
+}
+
 /* USER CODE END PFP */
 
 /* USER CODE BEGIN 0 */
@@ -95,7 +101,7 @@ int main(void)
   MX_GPIO_Init();
   MX_SPI1_Init();
   /* USER CODE BEGIN 2 */
-
+	
   /* USER CODE END 2 */
 
   /* Infinite loop */
